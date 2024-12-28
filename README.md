@@ -39,7 +39,7 @@ Verify that the server is running :
     Open a browser and go to http : //localhost:3000/health.
     You should see the message : "Server is healthy!"
 
-#### step 2 start the frontend
+#### step 2 : start the frontend
 on node.js :
 Install a lightweight HTTP server
     npm install -g http-server
