@@ -9,7 +9,7 @@ for the endpoints :
 - /api/customers : Similar to bankers, this endpoint would serve customer-related data.
 - /health : Simple GET endpoint for checking server health. Returns : {"message": "Server is healthy!"}
 
-The server listens on port 3000 and is accessible locally at http://localhost : 3000
+The server listens on port 3000 and is accessible locally at http://localhost:3000
 
 ### Frontend : 
 The frontend is a basic HTML/JavaScript page using Axios for AJAX requests to the backend API. It populates a table with data from the /api/bankers endpoint upon page load.
